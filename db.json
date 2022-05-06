@@ -1,0 +1,373 @@
+{
+  "project": [
+      {
+        "id": 1,
+        "name": "Коронавирус",
+        "description": {
+          "short_description": "This is my first site. It is just simple layout.",
+          "long_description": "This is my first site. It is just simple layout."
+        },
+        "github": {
+          "frontend": "https://github.com/Fuad-a11F/coronavirus",
+          "backend": null
+        },
+        "technology": {
+          "frontend": "HTML, препроцессор SASS в синтаксисе SCSS, JavaScript, адаптивная верстка.",
+          "backend": null
+        },
+        "main_picture": "coronavirus_main",
+        "pictures": [
+          "coronavirus_1",
+          "coronavirus_2",
+          "coronavirus_3"
+        ],
+        "is_backend": false,
+        "is_frontend": true,
+        "is_lost": false,
+        "is_developed": false,
+        "work_level": 3,
+        "filter": "layout",
+        "link_to_the_site": "https://fuad-a11f.github.io/coronavirus/"
+      },
+
+      {
+        "id": 2,
+        "name": "Небольшая коллекция игр",
+        "description": {
+          "short_description": "Первое приложение на ангуляре",
+          "long_description": "Первое приложение на ангуляре"
+        },
+        "github": {
+          "frontend": null,
+          "backend": null
+        },
+        "technology": {
+          "frontend": "firebase, angular, ????",
+          "backend": null
+        },
+        "main_picture": "games_main",
+        "pictures": ["games_1", "games_2", "games_3"],
+        "is_backend": false,
+        "is_frontend": true,
+        "is_lost": true,
+        "is_developed": false,
+        "work_level": 7,
+        "filter": "angular",
+        "link_to_the_site": "https://fuad-a11f.github.io/coronavirus/"
+      },
+
+      {
+        "id": 3,
+        "name": "Бел. Почта",
+        "description": {
+          "short_description": "...",
+          "long_description": "..."
+        },
+        "github": {
+          "frontend": null,
+          "backend": null
+        },
+        "technology": {
+          "frontend": "????",
+          "backend": null
+        },
+        "main_picture": "bel_post_main",
+        "pictures": ["bel_post_1", "bel_post_2", "bel_post_3"],
+        "is_backend": false,
+        "is_frontend": true,
+        "is_lost": true,
+        "is_developed": false,
+        "work_level": 5,
+        "filter": "",
+        "link_to_the_site": "https://naughty-almeida-6bd124.netlify.app/"
+      },
+
+     {
+      "id": 4,
+      "name": "Бизнес",
+      "description": {
+        "short_description": "...",
+        "long_description": "..."
+      },
+      "github": {
+        "frontend": "https://github.com/Fuad-a11F/animations",
+        "backend": null
+      },
+      "technology": {
+        "frontend": "HTML, CSS, JavaScript, адаптивная верстка, CSS-анимации",
+        "backend": null
+      },
+      "main_picture": "business_main",
+      "pictures": ["business_1", "business_2", "business_3"],
+      "is_backend": false,
+      "is_frontend": true,
+      "is_lost": false,
+      "is_developed": false,
+      "work_level": 4,
+      "filter": "layout",
+      "link_to_the_site": "https://fuad-a11f.github.io/animations/"
+    },
+
+     {
+      "id": 5,
+      "name": "Игры",
+      "description": {
+        "short_description": "...",
+        "long_description": "..."
+      },
+      "github": {
+        "frontend": "https://github.com/Fuad-a11F/game",
+        "backend": null
+      },
+      "technology": {
+        "frontend": "HTML, CSS, JavaScript, адаптивная верстка",
+        "backend": null
+      },
+      "main_picture": "game_main",
+      "pictures": ["game_1", "game_2", "game_3"],
+      "is_backend": false,
+      "is_frontend": true,
+      "is_lost": false,
+      "is_developed": false,
+      "work_level": 4,
+      "filter": "layout",
+      "link_to_the_site": "https://fuad-a11f.github.io/game/"
+    },
+
+     {
+      "id": 6,
+      "name": "Список дел",
+      "description": {
+        "short_description": "...",
+        "long_description": "..."
+      },
+      "github": {
+        "frontend": "https://github.com/Fuad-a11F/todo_finish_3",
+        "backend": null
+      },
+      "technology": {
+        "frontend": "JSX, CSS, JavaScript, React, адаптивная верстка",
+        "backend": null
+      },
+      "main_picture": "todo_main",
+      "pictures": ["todo_1", "todo_2", "todo_3"],
+      "is_backend": false,
+      "is_frontend": true,
+      "is_lost": false,
+      "is_developed": false,
+      "work_level": 5,
+      "filter": "react",
+      "link_to_the_site": "https://jolly-yalow-4404a8.netlify.app/"
+    },
+
+     {
+      "id": 7,
+      "name": "Соревнование",
+      "description": {
+        "short_description": "...",
+        "long_description": "..."
+      },
+      "github": {
+        "frontend": "https://github.com/Fuad-a11F/konkurs-front",
+        "backend": "https://github.com/Fuad-a11F/konkurs-server"
+      },
+      "technology": {
+        "frontend": "Angular, TypeScript, SCSS.",
+        "backend": "Node js"
+      },
+      "main_picture": "competition_main",
+      "pictures": ["competition_1", "competition_2", "competition_3"],
+      "is_backend": true,
+      "is_frontend": true,
+      "is_lost": false,
+      "is_developed": false,
+      "work_level": 8,
+      "filter": "angular",
+      "link_to_the_site": null
+    },
+
+     {
+      "id": 8,
+      "name": "Список контактов",
+      "description": {
+        "short_description": "...",
+        "long_description": "..."
+      },
+      "github": {
+        "frontend": "https://github.com/Fuad-a11F/contact",
+        "backend": null
+      },
+      "technology": {
+        "frontend": "CSS, react, ts, react-hook-form, redux-toolkit",
+        "backend": null
+      },
+      "main_picture": "contact_main",
+      "pictures": ["contact_1", "contact_2", "contact_3"],
+      "is_backend": false,
+      "is_frontend": true,
+      "is_lost": false,
+      "is_developed": false,
+      "work_level": 6,
+      "filter": "react",
+      "link_to_the_site": null
+    },
+
+     {
+      "id": 9,
+      "name": "Интернет магазин пицц",
+      "description": {
+        "short_description": "...",
+        "long_description": "..."
+      },
+      "github": {
+        "frontend": "https://github.com/Fuad-a11F/pizza_final",
+        "backend": "https://github.com/Fuad-a11F/pizza-server"
+      },
+      "technology": {
+        "frontend": "JSX, CSS, JavaScript, React, Redux",
+        "backend": "Mysql, Node.js, express, REST API"
+      },
+      "main_picture": "pizza_main",
+      "pictures": ["pizza_1", "pizza_2", "pizza_3"],
+      "is_backend": true,
+      "is_frontend": true,
+      "is_lost": false,
+      "is_developed": false,
+      "work_level": 7,
+      "filter": "react",
+      "link_to_the_site": null
+    },
+
+     {
+      "id": 10,
+      "name": "SqrLearning",
+      "description": {
+        "short_description": "...",
+        "long_description": "..."
+      },
+      "github": {
+        "frontend": "https://github.com/Fuad-a11F/SqrLearning",
+        "backend": null
+      },
+      "technology": {
+        "frontend": "JSX, CSS, React, адаптивная верстка",
+        "backend": null
+      },
+      "main_picture": "SqrLearning_main",
+      "pictures": ["SqrLearning_1", "SqrLearning_2", "SqrLearning_3"],
+      "is_backend": false,
+      "is_frontend": true,
+      "is_lost": false,
+      "is_developed": false,
+      "work_level": 4,
+      "filter": "react",
+      "link_to_the_site": "https://amazing-jepsen-675c64.netlify.app/"
+    },
+
+     {
+      "id": 11,
+      "name": "Генератор QrCode",
+      "description": {
+        "short_description": "...",
+        "long_description": "..."
+      },
+      "github": {
+        "frontend": "https://github.com/Fuad-a11F/qrcode-front",
+        "backend": "https://github.com/Fuad-a11F/qrcode"
+      },
+      "technology": {
+        "frontend": "HTML, CSS, JS",
+        "backend": "Python"
+      },
+      "main_picture": "qrcode_main",
+      "pictures": ["qrcode_1", "qrcode_2", "qrcode_3"],
+      "is_backend": true,
+      "is_frontend": true,
+      "is_lost": false,
+      "is_developed": false,
+      "work_level": 4,
+      "filter": "python",
+      "link_to_the_site": null
+    },
+
+     {
+      "id": 12,
+      "name": "Телеграм бот",
+      "description": {
+        "short_description": "...",
+        "long_description": "..."
+      },
+      "github": {
+        "frontend": null,
+        "backend": "https://github.com/Fuad-a11F/telegram-bot"
+      },
+      "technology": {
+        "frontend": "HTML, CSS, JS",
+        "backend": "Python"
+      },
+      "main_picture": "telegram_bot_main",
+      "pictures": ["telegram_bot_1", "telegram_bot_2", "telegram_bot_3"],
+      "is_backend": true,
+      "is_frontend": false,
+      "is_lost": false,
+      "is_developed": false,
+      "work_level": 4,
+      "filter": "python",
+      "link_to_the_site": null
+    },
+
+     {
+      "id": 13,
+      "name": "Портфолио",
+      "description": {
+        "short_description": "...",
+        "long_description": "..."
+      },
+      "github": {
+        "frontend": null,
+        "backend": null
+      },
+      "technology": {
+        "frontend": "HTML, CSS, JS",
+        "backend": null
+      },
+      "main_picture": "portfolio_main",
+      "pictures": ["portfolio_1", "portfolio_2", "portfolio_3"],
+      "is_backend": false,
+      "is_frontend": true,
+      "is_lost": false,
+      "is_developed": true,
+      "work_level": 6,
+      "filter": "vue",
+      "link_to_the_site": null
+    },
+
+    {
+      "id": 14,
+      "name": "Форма регистрации",
+      "description": {
+        "short_description": "...",
+        "long_description": "..."
+      },
+      "github": {
+        "frontend": "https://github.com/Fuad-a11F/join",
+        "backend": null
+      },
+      "technology": {
+        "frontend": "styled-component, react-hook-form, yup, react",
+        "backend": null
+      },
+      "main_picture": "join_main",
+      "pictures": ["join_1", "join_2", "join_3"],
+      "is_backend": false,
+      "is_frontend": true,
+      "is_lost": false,
+      "is_developed": false,
+      "work_level": 5,
+      "filter": "react",
+      "link_to_the_site": "https://focused-liskov-b6a8ee.netlify.app/registration"
+    }
+  ]
+}
+
+
